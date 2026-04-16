@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: billing-processor-9894
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/billing-processor-9894
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
